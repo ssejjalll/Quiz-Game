@@ -1,5 +1,6 @@
 Quiz Game: 
-Welcome to the Quiz Game! This is a fun and simple command-line quiz game written in Python that lets you test your general knowledge. Whether you're a trivia master or just looking to learn something new, this game is for you!
+Welcome to the Quiz Game.
+This is a fun and simple command-line quiz game written in Python that lets you test your general knowledge. Whether you're a trivia master or just looking to learn something new, this game is for you!
 
 How to Play:
 1. Start the Game: When you run the game, you’ll be asked if you want to play. Just type `Y` for yes or `N` for no.

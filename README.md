@@ -4,7 +4,8 @@ Welcome to the Quiz Game! This is a fun and simple command-line quiz game writte
 How to Play:
 1. Start the Game: When you run the game, you’ll be asked if you want to play. Just type `Y` for yes or `N` for no.
 2. Answer Questions: You will be presented with a series of questions. Type your answer and hit Enter.
-3. Check Your Score: At the end of the game, you'll see how many questions you got right!
+   - Error Handling: If you enter an invalid input (e.g., letters when a number is expected), the game will prompt you to enter a valid answer.
+4. Check Your Score: At the end of the game, you'll see how many questions you got right!
 
 Getting Started:
 To get started with the Quiz Game on your own computer, follow these steps:
@@ -18,9 +19,14 @@ git clone https://github.com/ssejjalll/Quiz-Game.git
 
 Navigate to the Project Directory:
 Change into the project directory
+cd Quiz-Game
+text
+undefined
 
 Run the Game:
 Now you're ready to play! Run the game with this command:
+bash
+python quiz.py
 
 Example Usage:
 The game will prompt you with questions. Type your answer and press Enter. The game will tell you if you are correct and keep track of your score. Type "Q" to quit the game at any time.

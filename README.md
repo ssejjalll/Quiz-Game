@@ -28,7 +28,7 @@ The game will prompt you with questions. Type your answer and press Enter. The g
 Feedback:
 If you have any suggestions or find any bugs, feel free to open an issue in this repository. Your feedback helps me improve.
 
-About Me 👤:
+About Me:
 My name is Sejal Pandey (https://github.com/ssejjalll), and I'm learning Python programming. This project is part of my journey to become a better developer. You can check out my other project on my GitHub profile.
 
 Thanks for checking out my Quiz Game! I hope you enjoy playing it as much as I enjoyed creating it. Happy quizzing!
